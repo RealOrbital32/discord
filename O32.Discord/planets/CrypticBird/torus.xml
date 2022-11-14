@@ -1,0 +1,14 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>mug</ID>
+
+    <Entry>
+        <ID>MUG</ID>
+        <Name>Mug</Name>
+
+        <RumorFact>
+            <ID>MUGREVEAL</ID>
+            <RumorName>mug root torus</RumorName>
+            <Text>A torus* with the mug root beer logo on it. Requested by CrypticBird.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

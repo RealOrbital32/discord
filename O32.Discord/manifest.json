@@ -1,0 +1,9 @@
+{
+  "filename": "NewHorizonsConfig.dll",
+  "author": "Orbital 32 (a.k.a cigtu) and the OW Modding Discord",
+  "name": "Discord System",
+  "uniqueName": "O32.Discord",
+  "version": "1.0.0",
+  "owmlVersion": "2.1.0",
+  "dependencies": [ "xen.NewHorizons" ]
+}

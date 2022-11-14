@@ -1,0 +1,14 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>planet</ID>
+
+    <Entry>
+        <ID>PLANET</ID>
+        <Name>Planet</Name>
+
+        <RumorFact>
+            <ID>PLANETREVEAL</ID>
+            <RumorName>3 layers</RumorName>
+            <Text>A planet that was going to have 2 more inside of it, however that went horribly wrong. Requested by Trifid.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

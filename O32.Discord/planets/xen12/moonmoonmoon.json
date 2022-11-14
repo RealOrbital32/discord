@@ -1,0 +1,15 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Moonmoonmoon",
+	"starSystem": "O32.Discord",
+	"Base": {
+		"surfaceGravity": 12,
+		"groundSize": 50,
+		"surfaceSize": 50,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 250,
+		"primaryBody": "Moonmoon"
+	}
+}

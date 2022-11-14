@@ -1,0 +1,14 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>base</ID>
+
+    <Entry>
+        <ID>BASE</ID>
+        <Name>Base</Name>
+
+        <RumorFact>
+            <ID>BASEREVEAL</ID>
+            <RumorName>big bass (base)</RumorName>
+            <Text>A planet with 3 moons exactly. 3 moons, more like moon moon moons? Requested by xen12.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

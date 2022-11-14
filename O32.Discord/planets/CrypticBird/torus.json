@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Mug Torus",
+	"starSystem": "O32.Discord",
+	"Base": {
+		"surfaceGravity": 12,
+		"surfaceSize": 300,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 3000,
+		"primaryBody": "CIGT(s)U(n)"
+	},
+	"HeightMap": {
+		"heightMap": "planets/CrypticBird/torus.png",
+		"textureMap": "planets/CrypticBird/mug.png",
+		"minHeight": 0,
+		"maxHeight": 300
+	},
+	"ShipLog": {
+		"xmlFile": "planets/CrypticBird/torus.xml"
+	}
+}

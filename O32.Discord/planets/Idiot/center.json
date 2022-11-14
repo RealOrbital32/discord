@@ -1,0 +1,18 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Idiot",
+	"starSystem": "O32.Discord",
+	"Base": {
+		"surfaceGravity": 0,
+		"surfaceSize": 0,
+		"hasMapMarker": false
+	},
+	"Orbit": {
+		"semiMajorAxis": 9000,
+		"primaryBody": "CIGT(s)U(n)"
+	},
+	"FocalPoint": {
+		"primary": "cigtu's bank account",
+		"secondary": "idiot's bank account"
+	}
+}

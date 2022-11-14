@@ -1,0 +1,14 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>my</ID>
+
+    <Entry>
+        <ID>MY</ID>
+        <Name>My</Name>
+
+        <RumorFact>
+            <ID>MYREVEAL</ID>
+            <RumorName>my bank account</RumorName>
+            <Text>Supposedly, $500 of my money is flowing from my bank account to his. Requested by Idiot.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

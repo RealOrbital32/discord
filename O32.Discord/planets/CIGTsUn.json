@@ -1,0 +1,19 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "CIGT(s)U(n)",
+	"starSystem": "O32.Discord",
+	"Base": {
+		"surfaceGravity": 50,
+		"surfaceSize": 1000,
+		"hasMapMarker": false,
+		"centerOfSolarSystem": true
+	},
+	"Star": {
+		"size": 1000,
+		"tint": {
+			"r": 50,
+			"g": 10,
+			"b": 100
+		}
+	}
+}

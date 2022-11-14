@@ -1,0 +1,17 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Lava",
+	"starSystem": "O32.Discord",
+	"Base": {
+		"surfaceGravity": 0,
+		"surfaceSize": 300,
+		"hasMapMarker": false
+	},
+	"Orbit": {
+		"semiMajorAxis": 1,
+		"primaryBody": "Tides"
+	},
+	"Lava": {
+		"size": 300
+	}
+}

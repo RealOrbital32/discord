@@ -1,0 +1,21 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Tides",
+	"starSystem": "O32.Discord",
+	"Base": {
+		"surfaceGravity": 12,
+		"surfaceSize": 300,
+		"hasMapMarker": true,
+		"invulnerableToSun": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 15000,
+		"primaryBody": "CIGT(s)U(n)"
+	},
+	"ShipLog": {
+		"xmlFile": "planets/Acamaeda/tides.xml"
+	},
+	"ProcGen": {
+		"scale": 300
+	}
+}

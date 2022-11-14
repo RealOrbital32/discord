@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Planet (Layer 3)",
+	"starSystem": "O32.Discord",
+	"Base": {
+		"surfaceGravity": 12,
+		"surfaceSize": 300,
+		"groundSize": 100,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 6000,
+		"primaryBody": "CIGT(s)U(n)"
+	},
+	"Water": {
+		"size": 200
+	},
+	"Atmosphere": {
+		"size": 300,
+		"clouds": {
+			"innerCloudRadius": 280,
+			"outerCloudRadius": 300,
+			"texturePath": "planets/Trifid/atmos.png"
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/Trifid/planet.xml"
+	}
+}

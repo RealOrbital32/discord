@@ -1,0 +1,14 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>tides</ID>
+
+    <Entry>
+        <ID>TIDES</ID>
+        <Name>Tides</Name>
+
+        <RumorFact>
+            <ID>TIDESREVEAL</ID>
+            <RumorName>TSULAVI!!!!!</RumorName>
+            <Text>Planet with tides of lava, like a lava tsunami. Requested by Acamaeda.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "idiot's bank account",
+	"starSystem": "O32.Discord",
+	"Base": {
+		"surfaceGravity": 12,
+		"surfaceSize": 45,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 200,
+		"primaryBody": "Idiot"
+	},
+	"Sand": {
+		"size": 100,
+		"tint": {
+			"g": 45
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/Idiot/idiot.xml"
+	}
+}
